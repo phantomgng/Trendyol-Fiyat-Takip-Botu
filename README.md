@@ -14,8 +14,8 @@ HTML E-posta: Şık bir e-posta formatı ile ürün başlığını ve yeni fiyat
 Depoyu Klonlayın:
 
 Bash
-git clone https://github.com/kullaniciadin/trendyol-fiyat-takip.git
-cd trendyol-fiyat-takip
+git clone https://github.com/phantomgng/Trendyol-Fiyat-Takip-Botu.git
+cd Trendyol-Fiyat-Takip-Botu
 Gerekli Kütüphaneleri Yükleyin:
 
 Bash
