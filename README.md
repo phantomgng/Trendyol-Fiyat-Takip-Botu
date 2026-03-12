@@ -1,4 +1,4 @@
-🚀 Trendyol Fiyat Takip Botu (MacBook Air M4)
+🚀 Trendyol Fiyat Takip Botu
 Bu Python projesi, Trendyol üzerindeki belirli bir ürünün (MacBook Air M4) fiyatını otomatik olarak takip eder ve fiyat belirlediğiniz limitin altına düştüğünde size anlık e-posta bildirimi gönderir.
 
 ✨ Özellikler
